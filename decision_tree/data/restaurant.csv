@@ -1,0 +1,13 @@
+Example,Alternate,Bar,Fri/Sat,Hungry,Patrons,Price,Raining,Reservation,Type,WaitEstimate,TargetWait
+1,T,F,F,T,Some,$$$,F,T,French,0-10,T
+2,T,F,F,T,Full,$,F,F,Thai,30-60,F
+3,F,T,F,F,Some,$,F,F,Burger,0-10,T
+4,T,F,T,T,Full,$,F,F,Thai,10-30,T
+5,T,F,T,F,Full,$$$,F,T,French,>60,F
+6,F,T,F,T,Some,$$,T,T,Italian,0-10,T
+7,F,T,F,F,None,$,T,F,Burger,0-10,F
+8,F,F,F,T,Some,$$,T,T,Thai,0-10,T
+9,F,T,T,F,Full,$,T,F,Burger,>60,F
+10,T,T,T,T,Full,$$$,F,T,Italian,10-30,F
+11,F,F,F,F,None,$,F,F,Thai,0-10,F
+12,T,T,T,T,Full,$,F,F,Burger,30-60,T
